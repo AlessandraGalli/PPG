@@ -1,3 +1,8 @@
+%-----------------------------%%-----------------------------%%
+%  Authors: Alessandra Galli, Claudio Narduzzi, Giada Giorgi. %
+%        Instrumentation and Measurement Research Group       %
+%                    University of Padova                     %
+%-----------------------------%%-----------------------------%%
 function [num_aut]=auto_grandi(eigen)
 
 eig1=eigen(1:10);       
