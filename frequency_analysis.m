@@ -1,3 +1,8 @@
+%-----------------------------%%-----------------------------%%
+%  Authors: Alessandra Galli, Claudio Narduzzi, Giada Giorgi. %
+%        Instrumentation and Measurement Research Group       %
+%                    University of Padova                     %
+%-----------------------------%%-----------------------------%%
 function[p1,p2]=frequency_analysis(ppg1,ppg2,xr_1,xr_2)
    
     fS=125;                 
