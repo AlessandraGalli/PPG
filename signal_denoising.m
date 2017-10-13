@@ -1,3 +1,8 @@
+%-----------------------------%%-----------------------------%%
+%  Authors: Alessandra Galli, Claudio Narduzzi, Giada Giorgi. %
+%        Instrumentation and Measurement Research Group       %
+%                    University of Padova                     %
+%-----------------------------%%-----------------------------%%
 function [ xr_1,xr_2 ] = signal_denoising(ppg1,ppg2,accx,accy,accz)
  %% Construction of Hankel matrices and SVD
     H1=Hk(ppg1);                 
