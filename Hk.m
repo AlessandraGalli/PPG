@@ -1,3 +1,8 @@
+%-----------------------------%%-----------------------------%%
+%  Authors: Alessandra Galli, Claudio Narduzzi, Giada Giorgi. %
+%        Instrumentation and Measurement Research Group       %
+%                    University of Padova                     %
+%-----------------------------%%-----------------------------%%
 function [H]=Hk(x)
 L=400;      
 N=1000;    
