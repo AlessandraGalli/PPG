@@ -1,3 +1,8 @@
+%-----------------------------%%-----------------------------%%
+%  Authors: Alessandra Galli, Claudio Narduzzi, Giada Giorgi. %
+%        Instrumentation and Measurement Research Group       %
+%                    University of Padova                     %
+%-----------------------------%%-----------------------------%%
 clc
 clear all
 close all
